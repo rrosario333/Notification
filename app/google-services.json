@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "841955291989",
+    "firebase_url": "https://notification-a60d4.firebaseio.com",
+    "project_id": "notification-a60d4",
+    "storage_bucket": "notification-a60d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841955291989:android:7f1f0d4c55030c82",
+        "android_client_info": {
+          "package_name": "co.centroida.notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841955291989-3rt387q9orj8guusc0nrifb9ecv9jplp.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "841955291989-3rt387q9orj8guusc0nrifb9ecv9jplp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNhYVhJnjmQMjDZRphRBnftDuGFbdxiNk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
